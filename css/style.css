@@ -551,19 +551,19 @@ body {
 }
 
 .days {
-	background: linear-gradient(90deg, #432C7A, #312059);
+	background: linear-gradient(90deg, #412a76, #301f56);
 }
 
 .hours {
-	background: linear-gradient(90deg, #80489C, #55246d);
+	background: linear-gradient(90deg, #824a9e, #512268);
 }
 
 .minutes {
-	background-color: #8e1f92;
+	background-color: #8d1e91;
 }
 
 .seconds {
-	background-color: #a23fa9;
+	background-color: #9f3da7;
 }
 
 .date {
